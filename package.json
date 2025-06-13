@@ -1,0 +1,20 @@
+{
+  "name": "my-node-project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@whiskeysockets/baileys": "^6.7.18",
+    "axios": "^1.9.0",
+    "express": "^5.1.0",
+    "form-data": "^4.0.3",
+    "mysql2": "^3.14.1",
+    "qrcode": "^1.5.4"
+  }
+}
